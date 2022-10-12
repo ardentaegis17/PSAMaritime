@@ -1,7 +1,9 @@
 # PSAMaritime
 Contains the files used for the prototype multimodal route optimiser developed for the 2nd MSC Maritime Digital Challenge.
 
-Datafiles needed (All in MODEL FILES.zip):
+All of the below files can be found in MODEL FILES.zip.
+
+Datafiles needed:
 GlobalAirSchedules2
 GlobalOceanSchedulesEdit
 Coordinates
