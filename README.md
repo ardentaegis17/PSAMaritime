@@ -13,4 +13,4 @@ NZAKL / AKL, SGSIN / SIN, INNSA / BOM, CNQZH / NNG, AUMEL / MEL, LHR.
 
 More information on the challenge statement and solution can be found on https://drive.google.com/drive/folders/1rIL_sBneShwbxA7W0Mvh57DjArfseqCf?usp=sharing
 
-A special thanks to the other members of Team KAAAndle - Kenneth (@smartestofallrats), Aaron (@aaronquahfw), and Asahi. It's maritime!
+A special thanks to the other members of Team KAAAndle - Kenneth (@smartestofallrats), Aaron (@aaronquak), and Asahi. It's maritime!
