@@ -15,6 +15,6 @@ NZAKL / AKL, SGSIN / SIN, INNSA / BOM, CNQZH / NNG, AUMEL / MEL, LHR.
 
 4. View the available routes, and make use of the modifiers! 
 
-More information on the challenge statement and solution can be found on https://drive.google.com/drive/folders/1rIL_sBneShwbxA7W0Mvh57DjArfseqCf?usp=sharing
+More information on the challenge statement and solution can be found on [https://drive.google.com/drive/folders/1rIL_sBneShwbxA7W0Mvh57DjArfseqCf?usp=sharing]
 
 A special thanks to the other members of Team KAAAndle - Kenneth (@Kenneth-Mah), Aaron (@aaronquak), and Asahi. It's maritime!
